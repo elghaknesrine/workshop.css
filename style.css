@@ -1,0 +1,147 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: century;
+}
+
+
+body{
+   
+}
+
+
+
+
+.nav1{
+background-color: blue;
+
+display: flex;
+height: 50px;
+justify-content: space-around;
+align-items: center;
+width: 100%;
+}
+
+.nav1 p{
+justify-content: space-around;
+align-items: center;
+
+color: white;
+text-decoration: none;
+font-size: 1.2rem;
+
+}
+.nav2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+background-color: rgb(218, 241, 235);
+
+gap: 100px;
+}
+.nav2 h1{
+color: white;
+text-transform: capitalize;
+font-size: 2rem;
+padding-left: 0;
+align-items: center;
+
+
+}
+.nav2 a{
+color: white;
+text-decoration: none;
+align-items: center;
+justify-content: space-between;
+font-size: 1.2rem;
+
+
+
+
+}
+button{
+color: rgb(245, 245, 246);
+border-radius: 5px;
+width: 100px;
+height: 30px;
+font-size: 1rem;
+background-color: rgba(59, 167, 255, 0.669);
+transition: all 0.4s linear;
+}
+button  :hover{
+    background-color: blueviolet;
+}
+
+
+
+.abc{ background-image: url(https://www.shiftbase.com/hubfs/4d8ddf08-1b68-45cc-9912-79a7edfc005f%20%281%29.jpeg);
+background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+justify-items: center;
+text-align: center;
+padding-top: 300px;
+
+
+
+    }
+.abc h2{
+font-size: 1.2rem;
+color: rgb(222, 4, 164);
+text-transform: uppercase;
+
+
+}
+
+.abc p{
+justify-content: center;
+font-size: 3rem;
+color: rgb(222, 4, 164);
+text-transform: capitalize;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
